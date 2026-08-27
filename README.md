@@ -68,6 +68,8 @@ AI 批改与答案生成依赖 DashScope API Key，脚本按以下优先级读�
 1. 环境变量 `DASHSCOPE_API_KEY`
 2. 本地文件 `calculator/photo/api_key.txt`（文件内只写 Key 本身，不要引号；该文件已加入 `.gitignore`）
 
+> **申请 Key**：前往[阿里云百炼控制台](https://bailian.console.aliyun.com/?apiKey=1)开通模型服务并领取/创建 API Key（新用户通常有免费额度）。
+
 ```bash
 # 方式一：设置环境变量
 setx DASHSCOPE_API_KEY "你的 Key"   # Windows 命令提示符
