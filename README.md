@@ -122,7 +122,7 @@ Calculator/
 
 | 贡献者 | 角色 / 主要贡献 |
 | :--- | :--- |
-| **[MOSS-vZ](https://github.com/MOSS-vZ)** | UI/UX 设计与优化、错题本逻辑、历史统计与图表、项目维护 |
+| **[Zhiw-Zhang](https://github.com/zhiw-zhang)** | UI/UX 设计与优化、错题本逻辑、历史统计与图表、项目维护 |
 | **[bihongling](https://github.com/bihongling)** | C++ 与 SFML 集成、核心脚本编写 |
 
 ## 许可证
